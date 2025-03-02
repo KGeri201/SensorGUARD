@@ -30,5 +30,5 @@ We applied the patch to a motion controlled game, and were not able to notice an
 In order to make sure, that our patch does not create any usability issues, further testing with a broad range of functionailites, dependent on motion controll, is required.
 
 
-## Disclamer
-The tests were done on a very limited number of devices in a controlled environment.  
+> [!NOTE]
+> The tests were done on a very limited number of devices in a controlled environment.  
