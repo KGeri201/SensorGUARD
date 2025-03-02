@@ -1,4 +1,4 @@
-# AndroGUARD-2
+# SensorGUARD
 Implement a patch for individual apps to mitigate sensor based fingerprinting.
 
 ## Description
